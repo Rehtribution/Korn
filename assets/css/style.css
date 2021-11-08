@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color:darkred;
+}
+
+body {
+    background-color: black;
+    font-family: cursive;
+}
+
+p {
+    color:whitesmoke;
+    font-family: cursive;
+}
+
+h2 {
+    color:darkred;
+    font-family: cursive;
+}
+
+ul {
+    color:whitesmoke;
+    font-family: cursive;
+}
+
+h3 {
+    font-family: sans-serif;
+    color:lightslategrey;
+    font-family: cursive;
+}
